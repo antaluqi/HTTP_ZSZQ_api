@@ -1,9 +1,8 @@
-import requests,json,random,rsa,re
+import requests,json,random,rsa,re,os
 import Comm
 from const import *
-from pprint import pprint
 import urllib.parse
-
+import pickle
 '''
 ZSZQ接口类
 '''
@@ -29,6 +28,13 @@ class api():
     登陆
     '''
     def login(self):
+        if self.load_objInfo():
+            isT,info=self.get_balance()
+            if isT:
+                print('从%s之前登陆状态登陆'%(self.username))
+                return (True,info)  # ================================z这里需要修改
+            print(self.username+'的历史登陆状态已经失效')
+
         conn=self.conn
         x_axis=self.__get_mv_pic_pos()
         isT,result=self.__get_rsa_para()
@@ -63,8 +69,32 @@ class api():
         logResult=sj.post()
         if logResult['error_no']!='0':
             return False,logResult['error_info']
-
+        self.save_objInfo()
         return True,logResult['results']
+
+    '''
+    保存客户登陆信息
+    '''
+    def save_objInfo(self,objFile_dir='custLoginInfo'):
+        objFile=objFile_dir+'/'+self.username+'.login'
+        if not os.path.exists(objFile_dir):
+            os.mkdir(objFile_dir)
+        with open(objFile, "wb") as f:
+            pickle.dump(self, f)
+        return True
+
+    '''
+    加载客户登陆信息
+    '''
+    def load_objInfo(self,objFile_dir='custLoginInfo'):
+        objFile=objFile_dir+'/'+self.username+'.login'
+        if not os.path.exists(objFile):
+            print('没有%s的历史login信息'%(self.username))
+            return False
+        with open(objFile, "rb") as f:
+            oldObj= pickle.load(f)
+            self.__dict__.update(oldObj.__dict__)
+        return True
 
     '''
     获取资金账户信息

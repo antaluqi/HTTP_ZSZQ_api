@@ -1,6 +1,6 @@
 from Crypto.Cipher import AES
 import rsa
-import binascii,base64,os,pickle
+import binascii,base64
 import random
 
 '''

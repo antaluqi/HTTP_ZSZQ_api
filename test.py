@@ -1,5 +1,6 @@
 import ZSZQ
-import Comm
+from pprint import pprint
 
-api=ZSZQ.api('1320011171','615919')
-print(api.login())
+api=ZSZQ.api('1320011172','******')
+api.login()
+pprint(api.get_SystemMessage())

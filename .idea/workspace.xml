@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Comm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZSZQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZSZQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custLoginInfo/1320011171.login" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custLoginInfo/1320011172.login" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -27,11 +29,57 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ZSZQ.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+            <state relative-caret-position="1881">
+              <caret line="796" column="26" lean-forward="true" selection-start-line="796" selection-start-column="26" selection-end-line="796" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#184#669#0" />
+                <element signature="e#686#702#1" />
+                <element signature="e#994#2413#0" />
+                <element signature="e#2522#2879#0" />
+                <element signature="e#2648#2840#1" />
+                <element signature="e#2679#2867#0" />
+                <element signature="e#3070#3696#1" />
+                <element signature="e#2940#3437#0" />
+                <element signature="e#4164#4527#1" />
+                <element signature="e#2951#3451#0" />
+                <element signature="e#5166#5177#1" />
+                <element signature="e#4228#4772#0" />
+                <element signature="e#7820#7831#1" />
+                <element signature="e#7836#8422#0" />
+                <element signature="e#7822#7833#1" />
+                <element signature="e#4838#5193#0" />
+                <element signature="e#9068#9084#1" />
+                <element signature="e#5300#5784#0" />
+                <element signature="e#10554#10570#1" />
+                <element signature="e#6597#7213#0" />
+                <element signature="e#13956#13967#1" />
+                <element signature="e#7008#7350#0" />
+                <element signature="e#14692#14887#1" />
+                <element signature="e#7421#9086#0" />
+                <element signature="e#16776#16947#1" />
+                <element signature="e#9391#9950#0" />
+                <element signature="e#17678#17689#1" />
+                <element signature="e#9391#10217#0" />
+                <element signature="e#20026#20042#1" />
+                <element signature="e#10019#10578#0" />
+                <element signature="e#20696#20712#1" />
+                <element signature="e#10641#11200#0" />
+                <element signature="e#21282#21293#1" />
+                <element signature="e#11869#12401#0" />
+                <element signature="e#22149#22165#1" />
+                <element signature="e#12557#13159#0" />
+                <element signature="e#21030#21246#0" />
+                <element signature="e#12914#13221#0" />
+                <element signature="e#3754#4049#0" />
+                <element signature="e#4128#5048#0" />
+                <element signature="e#5123#5374#0" />
+                <element signature="e#5463#6083#0" />
+                <element signature="e#6113#6231#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/const.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -51,10 +99,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Comm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="303">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#129#162#0" />
+                <element signature="e#211#354#0" />
+                <element signature="e#401#573#0" />
               </folding>
             </state>
           </provider>
@@ -69,6 +120,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>305106</find>
+      <find>301506</find>
+      <find>exchange_type</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -78,14 +136,14 @@
         <option value="$PROJECT_DIR$/COMM.py" />
         <option value="$PROJECT_DIR$/const.py" />
         <option value="$PROJECT_DIR$/Comm.py" />
-        <option value="$PROJECT_DIR$/ZSZQ.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/ZSZQ.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="295" />
+    <option name="y" value="18" />
     <option name="width" value="1601" />
     <option name="height" value="959" />
   </component>
@@ -95,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,11 +161,15 @@
               <item name="HTTP_ZSZQ_api" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTTP_ZSZQ_api" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HTTP_ZSZQ_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTTP_ZSZQ_api" type="462c0819:PsiDirectoryNode" />
+              <item name="custLoginInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,25 +240,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="34" width="1601" height="959" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30326295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14699684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3490909" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36225596" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292978" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.29818183" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.43058568" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -209,39 +272,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Comm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#129#162#0" />
+            <element signature="e#211#354#0" />
+            <element signature="e#401#573#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/const.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Comm.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZSZQ.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="1881">
+          <caret line="796" column="26" lean-forward="true" selection-start-line="796" selection-start-column="26" selection-end-line="796" selection-end-column="26" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#184#669#0" />
+            <element signature="e#686#702#1" />
+            <element signature="e#994#2413#0" />
+            <element signature="e#2522#2879#0" />
+            <element signature="e#2648#2840#1" />
+            <element signature="e#2679#2867#0" />
+            <element signature="e#3070#3696#1" />
+            <element signature="e#2940#3437#0" />
+            <element signature="e#4164#4527#1" />
+            <element signature="e#2951#3451#0" />
+            <element signature="e#5166#5177#1" />
+            <element signature="e#4228#4772#0" />
+            <element signature="e#7820#7831#1" />
+            <element signature="e#7836#8422#0" />
+            <element signature="e#7822#7833#1" />
+            <element signature="e#4838#5193#0" />
+            <element signature="e#9068#9084#1" />
+            <element signature="e#5300#5784#0" />
+            <element signature="e#10554#10570#1" />
+            <element signature="e#6597#7213#0" />
+            <element signature="e#13956#13967#1" />
+            <element signature="e#7008#7350#0" />
+            <element signature="e#14692#14887#1" />
+            <element signature="e#7421#9086#0" />
+            <element signature="e#16776#16947#1" />
+            <element signature="e#9391#9950#0" />
+            <element signature="e#17678#17689#1" />
+            <element signature="e#9391#10217#0" />
+            <element signature="e#20026#20042#1" />
+            <element signature="e#10019#10578#0" />
+            <element signature="e#20696#20712#1" />
+            <element signature="e#10641#11200#0" />
+            <element signature="e#21282#21293#1" />
+            <element signature="e#11869#12401#0" />
+            <element signature="e#22149#22165#1" />
+            <element signature="e#12557#13159#0" />
+            <element signature="e#21030#21246#0" />
+            <element signature="e#12914#13221#0" />
+            <element signature="e#3754#4049#0" />
+            <element signature="e#4128#5048#0" />
+            <element signature="e#5123#5374#0" />
+            <element signature="e#5463#6083#0" />
+            <element signature="e#6113#6231#0" />
           </folding>
         </state>
       </provider>
